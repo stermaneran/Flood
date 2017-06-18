@@ -1,2 +1,2 @@
 # Flood
-simple syn/rst flooding cide
+simple syn/rst flooding code
